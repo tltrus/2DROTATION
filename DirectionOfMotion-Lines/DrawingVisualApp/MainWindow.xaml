@@ -1,0 +1,14 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawingVisualApp"
+        mc:Ignorable="d"
+        Title="Direction Of Motion - SinCos / Matrix" Height="729" Width="1036" Background="Black" >
+    <Grid>
+        <local:DrawingVisualClass x:Name="g" Background="Black" Height="690" Margin="5" 
+                                  VerticalAlignment="Center" HorizontalAlignment="Center" Width="1020" 
+                                  MouseMove="g_MouseMove" MouseUp="g_MouseUp" />
+    </Grid>
+</Window>
