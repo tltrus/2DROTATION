@@ -6,6 +6,7 @@
 - Sin and Cos calculation
 - 2D Matrix calculation
 
+
 - Youtube: 
 - Rutube: https://rutube.ru/video/ec1b2c65b43d4c2bd6f6ee1d7a240f3d/
 
