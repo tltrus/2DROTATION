@@ -3,8 +3,8 @@
 # DirectionOfMotion-Lines
 
 2 methods for lines rotation:
-- Sin and Cos calculation
-- 2D Matrix calculation
++ Sin and Cos calculation
++ 2D Matrix calculation
 
 
 - Youtube: 
